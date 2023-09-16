@@ -21,7 +21,7 @@ Open Termux and run the following command:
    pkg upgrade
    pkg install git
    pkg install golang
-   git clone https://github.com/siwam-king1/DDOS.git
+   git clone https://github.com/Yadav210012/UR_DDoS.git
    cd DDOS
    python sk1.py
    ```
